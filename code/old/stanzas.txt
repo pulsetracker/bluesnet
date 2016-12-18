@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "w266Final.py", line 672, in <module>
+    main()
+  File "w266Final.py", line 663, in main
+    cc = bluesStanza()
+  File "w266Final.py", line 515, in __init__
+    words = nltk.tokenize.word_tokenize(bluesWords)
+NameError: global name 'nltk' is not defined

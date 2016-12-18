@@ -1,0 +1,18 @@
+[W 01:00:51.815 NotebookApp] Unrecognized JSON config file version, assuming version 1
+[W 01:00:51.821 NotebookApp] base_project_url is deprecated, use base_url
+[I 01:00:52.381 NotebookApp] [nb_conda_kernels] enabled, 1 kernels found
+[I 01:00:52.746 NotebookApp] ✓ nbpresent HTML export ENABLED
+[W 01:00:52.746 NotebookApp] ✗ nbpresent PDF export DISABLED: No module named nbbrowserpdf.exporters.pdf
+[I 01:00:52.751 NotebookApp] [nb_conda] enabled
+[I 01:00:52.841 NotebookApp] [nb_anacondacloud] enabled
+[I 01:00:52.847 NotebookApp] Serving notebooks from local directory: /data/W266/turnin/bluesnet/data
+[I 01:00:52.847 NotebookApp] 0 active kernels 
+[I 01:00:52.847 NotebookApp] The Jupyter Notebook is running at: https://[all ip addresses on your system]:4242/
+[I 01:00:52.847 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 01:00:53.361 NotebookApp] 404 GET /api/kernels/cb3a9edf-3a71-4e0f-8887-c32400e073d4/channels?session_id=1AE91E959502443790D50CE21B821C5D (75.166.158.53): Kernel does not exist: cb3a9edf-3a71-4e0f-8887-c32400e073d4
+[W 01:00:53.392 NotebookApp] 404 GET /api/kernels/cb3a9edf-3a71-4e0f-8887-c32400e073d4/channels?session_id=1AE91E959502443790D50CE21B821C5D (75.166.158.53) 52.04ms referer=None
+[W 01:00:56.842 NotebookApp] 404 GET /tree/code (75.166.158.53) 1.71ms referer=https://waq.dog:4242/tree
+[I 01:01:00.604 NotebookApp] 302 GET / (75.166.158.53) 0.43ms
+[W 01:01:09.986 NotebookApp] Replacing stale connection: cb3a9edf-3a71-4e0f-8887-c32400e073d4:1AE91E959502443790D50CE21B821C5D
+[I 01:01:51.641 NotebookApp] Interrupted...
+[I 01:01:51.641 NotebookApp] Shutting down kernels
